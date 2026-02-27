@@ -8,3 +8,5 @@
  pymupdf
  wikipedia
  langchain-text-splitters
+langchain-openai
+sentence-transformers
