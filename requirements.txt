@@ -10,3 +10,5 @@
  langchain-text-splitters
 langchain-openai
 sentence-transformers
+langchain_huggingface
+chromadb
